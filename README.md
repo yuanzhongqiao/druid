@@ -84,81 +84,21 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://druid.apache.org/docs/latest/ingestion/index.html" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="data loader Kafka" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/177816/65819337-054eac80-e1d0-11e9-8842-97b92d8c6159.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="417"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play data loader Kafka" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play data loader Kafka">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open data loader Kafka in new window" class="AnimatedImagePlayer-button" href="https://druid.apache.org/docs/latest/ingestion/index.html" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+        
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用点击式向导</font><font style="vertical-align: inherit;">加载</font></font><a href="https://druid.apache.org/docs/latest/ingestion/index.html#streaming" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://druid.apache.org/docs/latest/ingestion/index.html#batch" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">批处理</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据，指导您完成摄取设置。监控一次性任务和摄取主管。</font></font></p>
 <h4 tabindex="-1" dir="auto"><a id="user-content-manage-the-cluster" class="anchor" aria-hidden="true" tabindex="-1" href="#manage-the-cluster"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理集群</font></font></h4>
 <p dir="auto"><animated-image data-catalyst=""><a href="https://druid.apache.org/docs/latest/ingestion/data-management.html" rel="nofollow" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/177816/65819338-08499d00-e1d0-11e9-80fe-faee9e9468cb.gif" alt="管理" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://druid.apache.org/docs/latest/ingestion/data-management.html" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="management" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/177816/65819338-08499d00-e1d0-11e9-80fe-faee9e9468cb.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="417"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play management" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play management">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open management in new window" class="AnimatedImagePlayer-button" href="https://druid.apache.org/docs/latest/ingestion/data-management.html" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+     
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">轻松管理您的集群。</font><font style="vertical-align: inherit;">从一个方便的位置</font><font style="vertical-align: inherit;">查看您的</font></font><a href="https://druid.apache.org/docs/latest/design/architecture.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据源</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://druid.apache.org/docs/latest/design/segments.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分段</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://druid.apache.org/docs/latest/ingestion/tasks.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">摄取任务</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://druid.apache.org/docs/latest/design/processes.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">服务</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。全部由</font></font><a href="https://druid.apache.org/docs/latest/querying/sql.html#metadata-tables" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SQL 系统表</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供支持，允许您查看每个视图的基础查询。</font></font></p>
 <h4 tabindex="-1" dir="auto"><a id="user-content-issue-queries" class="anchor" aria-hidden="true" tabindex="-1" href="#issue-queries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发出查询</font></font></h4>
 <p dir="auto"><animated-image data-catalyst=""><a href="https://druid.apache.org/docs/latest/querying/sql.html" rel="nofollow" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/177816/65819341-0c75ba80-e1d0-11e9-9730-0f2d084defcc.gif" alt="查询视图组合" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://druid.apache.org/docs/latest/querying/sql.html" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="query view combo" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/177816/65819341-0c75ba80-e1d0-11e9-9730-0f2d084defcc.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="417"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play query view combo" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play query view combo">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open query view combo in new window" class="AnimatedImagePlayer-button" href="https://druid.apache.org/docs/latest/querying/sql.html" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+  
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用内置查询工作台对</font></font><a href="https://druid.apache.org/docs/latest/querying/sql.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DruidSQL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://druid.apache.org/docs/latest/querying/querying.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本机</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查询进行原型设计，或连接可帮助您充分利用 Druid 的</font></font><a href="https://druid.apache.org/libraries.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">众多工具</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">之一。</font></font></p>
 <h3 tabindex="-1" dir="auto"><a id="user-content-documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h3>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关当前官方版本的文档，</font><font style="vertical-align: inherit;">请参阅</font></font><a href="https://druid.apache.org/docs/latest/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。如果您需要有关先前版本的信息，可以浏览</font></font><a href="https://druid.apache.org/docs/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">先前版本的文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
